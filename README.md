@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# hi, i'm elene 👋
 
 ```python
 class Elene(Developer):
