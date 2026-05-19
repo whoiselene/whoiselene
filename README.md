@@ -114,7 +114,7 @@ A kid-safe platform where you browse posts by country of origin — not by perso
 
 ---
 
-## `$ ps aux | grep experience`
+## `experience`
 
 ```
 RUNNING   International Student Ambassador      @ ELTE
@@ -156,6 +156,5 @@ Building things that matter.
 
 *"technology should solve meaningful human problems."*
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=flat)
 
 </div>
