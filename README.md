@@ -1,83 +1,116 @@
-## Hi there 👋
+# elene.samsiani
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=f97316&width=500&lines=CS+Student+%40+ELTE+University;Stipendium+Hungaricum+Scholar;Building+AI+that+matters;Budapest+%2F+Tbilisi+%F0%9F%87%AC%F0%9F%87%AA" alt="Typing SVG" />
 
-```python
-class Elene(Developer):
-    location     = "Budapest, Hungary 🇭🇺"
-    university   = "Eötvös Loránd University (ELTE)"
-    degree       = "Computer Science BSc"
-    building     = "AI that actually matters"
-    philosophy   = "technology should solve real human problems — not just impressive ones"
+```bash
+CS Student @ ELTE University
+Stipendium Hungaricum Scholar
+Budapest / Tbilisi
 ```
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6366f1&width=500&lines=AI+%2B+Computer+Vision+%2B+Drone+Systems;Accessibility+Technology+Builder;Media+Literacy+Advocate;Hackathon+Winner+%F0%9F%8F%86;CERN+Research+Program+Participant" alt="Typing SVG" />
+## `~/interests`
+
+```txt
+AI
+computer vision
+cybersecurity
+media literacy
+educational technology
+sustainability
+creative tech
+```
 
 ---
 
-## `$ whoami`
+## `~/currently-building`
 
-I'm a CS student at ELTE Budapest building at the intersection of **AI, sustainability, accessibility, and education**. My projects have flown drones over farms, put subtitles on smart glasses, and helped teenagers spot fake news — all before finishing my degree.
-
-When I'm not coding, I'm advocating for youth, speaking at conferences, or figuring out how technology can close gaps instead of widening them.
+```txt
+Pest Patrol      -> AI + drone-assisted pest detection
+ReCheck          -> media literacy game
+ORATOR           -> AI public speaking lab
+CyberSelf        -> gamified cybersecurity platform
+PolitPortal.ge   -> political literacy platform
+```
 
 ---
 
-## `$ ls -la ./projects`
+## `~/projects`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚁 Pest Patrol
-**AI drone system for agricultural monitoring**
+### 🚁 pest_patrol
+```yaml
+type: sustainability / ai
+stack: [Python, TensorFlow, OpenCV, CNNs]
+```
+Drone-assisted agricultural monitoring system focused on pest detection and crop health analysis.
 
-Drones fly. OpenCV sees. CNN classifies. Farmers know which crops need help before damage spreads — in real time, from the sky.
-
-`Python` `TensorFlow` `OpenCV` `CNN` `Keras`
-
-🥉 **3rd Place — Millennium Innovations Award**  
-🔬 **CERN Research Program — Switzerland**
+🥉 `3rd Place @ Millennium Innovations Award`  
+🔬 `CERN research program opportunity`
 
 </td>
 <td width="50%">
 
-### 🔍 RECHECK
-**Interactive media literacy game**
+### 🔍 recheck
+```yaml
+type: educational game
+award: €4000 TruthTechThon winner
+```
+Media literacy game built during a 3-day hackathon. Follows Herakle travelling across Georgia identifying misinformation and manipulation.
 
-Travel across Georgia with Herakle. Encounter misinformation. Expose it. Built in 3 days at DataFest Tbilisi — and won.
-
-`Game Dev` `UI/UX` `Storytelling` `EdTech`
-
-🏆 **Winner — Media Literacy Hackathon**  
-💶 **€4,000 EU-funded prize**
+🏆 `TruthTechThon Winner`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 👓 Visual Help
-**Smart glasses for the hearing-impaired**
-
-Real-time speech-to-text subtitles displayed directly on smart glasses. Built for inclusion. Presented internationally.
-
-`Embedded Systems` `Speech Recognition` `Wearables`
-
-🌍 **Invited to IB Conference — Dublin**
+### 🎤 orator
+```yaml
+type: ai / communication
+focus: [presentations, debates, interviews]
+```
+Bilingual public speaking preparation lab with AI-generated practice topics, speech analysis, and feedback systems.
 
 </td>
 <td width="50%">
 
-### 🌍 Cultural Swap
-**Social media reimagined for cultural discovery**
+### 🛡️ cyberself
+```yaml
+type: cybersecurity / ai
+stack: [React, Node.js, AI analysis]
+```
+AI-powered gamified cybersecurity learning platform with personalized learning paths.
 
-A kid-safe platform where you browse posts by country of origin — not by person. No profiles. Just cultures, stories, and curiosity.
+🥈 `Runner-Up @ European Cybersecurity Hackathon`
 
-`Web Dev` `UX Design` `Youth Safety`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-📋 **IB Personal Project — Tested Prototype**
+### ♻️ redcycle
+```yaml
+type: ai / sustainability
+focus: [recycling prediction, space missions]
+```
+AI dashboard for waste analysis and recycling optimization in future space missions.
+
+</td>
+<td width="50%">
+
+### 👓 visual_help
+```yaml
+type: accessibility tech
+focus: [speech-to-text, inclusion]
+```
+Smart glasses displaying real-time subtitles for hearing-impaired users.
+
+🎤 `Presented @ IB Conference — Dublin`
 
 </td>
 </tr>
@@ -85,75 +118,72 @@ A kid-safe platform where you browse posts by country of origin — not by perso
 
 ---
 
-## `$ cat skills.json`
+## `~/awards`
 
-```json
-{
-  "AI & ML":          ["TensorFlow", "Keras", "CNN", "OpenCV", "MobileNetSSD"],
-  "languages":        ["Python", "JavaScript", "HTML/CSS"],
-  "domains":          ["Computer Vision", "Accessibility Tech", "EdTech", "Cybersecurity"],
-  "soft_skills":      ["Public Speaking", "Community Building", "Event Coordination"],
-  "currently_learning": ["AI architectures", "Full-stack systems", "Startup development"]
-}
+```txt
+🏆  BTU AI Hackathon Winner
+🏆  TruthTechThon Winner          (€4,000)
+🥈  European Cybersecurity Hackathon Runner-Up
+🥉  Millennium Innovations Award
+🌍  Young European Ambassador
 ```
 
 ---
 
-## `$ cat achievements.log`
+## `~/experience`
 
-```
-[2024] 🏆  Winner         — Media Literacy Hackathon @ DataFest Tbilisi (€4,000)
-[2024] 🥉  3rd Place      — Millennium Innovations Award
-[2024] 🔬  Participant    — CERN Research Program, Switzerland
-[2024] 🌍  Awardee        — Global Youth Action Fund
-[2024] 🇪🇺  Ambassador     — Young European Ambassador Program
-[2023] 🌱  Winner         — Essay Competition, Environmental Sustainability
-[2023] 🎤  Speaker        — IB Conference, Dublin
-```
-
----
-
-## `experience`
-
-```
-RUNNING   International Student Ambassador      @ ELTE
-RUNNING   Marketing Team                        @ Google Developer Groups ELTE  
-RUNNING   Scholar                               @ HSUP — Hungarian Startup University Program
-PAST      Cybersecurity Trainee                 @ CREST CAMP
-PAST      Cybersecurity Intern                  @ UGT
-PAST      Social Media Marketing Intern         @ Erasmus Life Budapest
+```txt
+RUNNING   International Student Ambassador    @ ELTE
+RUNNING   Marketing Team Member               @ GDG ELTE
+RUNNING   HSUP Scholar                        @ Hungarian Startup University Program
+PAST      Cybersecurity Intern                @ UGT
+PAST      CREST CAMP Trainee
+PAST      Social Media Marketing Intern       @ Erasmus Life Budapest
 ```
 
 ---
 
-## `$ echo $MISSION`
+## `~/certifications`
 
-```
-Building systems that combine innovation with real-world impact.
-Especially in: sustainability • accessibility • education • digital literacy • youth empowerment
-
-Not just building things that work.
-Building things that matter.
+```txt
+CREST Cyber Accelerated Maturity Programme
+Cyber Security & SOC Fundamentals
+UI/UX Funded Course
+Power of Media Influence
 ```
 
 ---
 
-## `$ ping elene`
+## `~/stack`
+
+![Python](https://img.shields.io/badge/Python-f97316?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-f97316?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-f97316?style=flat-square&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-f97316?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-f97316?style=flat-square&logo=node.js&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-f97316?style=flat-square&logo=keras&logoColor=white)
+
+---
+
+## `~/notes`
+
+```txt
+interested in projects combining:
+technology + creativity + real-world impact
+```
+
+---
+
+## `~/connect`
 
 <a href="https://linkedin.com/in/elene-samsiani-869192265">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-f97316?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-📍 Budapest, Hungary
 
 ---
 
 <div align="center">
 
-*"technology should solve meaningful human problems."*
-
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=f97316&style=flat-square)
 
 </div>
