@@ -183,7 +183,4 @@ technology + creativity + real-world impact
 ---
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=f97316&style=flat-square)
-
 </div>
